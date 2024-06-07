@@ -1,7 +1,7 @@
 ---
 name: "⌨️search"
 about: search 작업 사항을 입력해주세요.
-title: "[search]"
+title: "[Search]"
 labels: ''
 assignees: ''
 

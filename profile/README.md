@@ -23,3 +23,6 @@
 
 ![image](https://github.com/user-attachments/assets/06448777-37bc-44cd-85a2-868e2c7f26bc)
 
+<br><br>
+## 시스템 구성도
+![Group 207 (2)](https://github.com/user-attachments/assets/eb1c65d0-11dd-4130-b3c7-399adc99a1a6)
